@@ -1,0 +1,6 @@
+@AreaDoAluno_HostAddress = http://localhost:5090
+
+GET {{AreaDoAluno_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
