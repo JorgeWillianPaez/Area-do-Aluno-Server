@@ -1,6 +1,4 @@
-using AreaDoAluno.Models;
-
-namespace AreaDoAluno.src.models
+namespace AreaDoAluno.src.Models
 {
     public class StudentExam
     {

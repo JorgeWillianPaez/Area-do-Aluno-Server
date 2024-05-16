@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace AreaDoAluno.Controllers
+namespace AreaDoAluno.src.Controllers
 {
-    public class ExamController : Controller
+    public class PersonController : Controller
     {
         public IActionResult Index()
         {

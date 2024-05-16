@@ -1,4 +1,4 @@
-namespace AreaDoAluno.src.models
+namespace AreaDoAluno.src.Models
 {
     public class StudentClass
     {
