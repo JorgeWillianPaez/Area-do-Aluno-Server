@@ -1,5 +1,4 @@
-
-namespace AreaDoAluno.src.Models
+namespace AreaDoAluno.Models
 {
     public class Person 
     {

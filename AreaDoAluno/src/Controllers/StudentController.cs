@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace AreaDoAluno.src.Controllers
+namespace AreaDoAluno.Controllers
 {
     public class StudentController : Controller
     {
