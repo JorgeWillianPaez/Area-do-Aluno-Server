@@ -5,6 +5,7 @@ namespace AreaDoAluno.Models
         public int Id { get; set;}
         public string? Body { get; set; }
         public Class? Class { get; set; }
+        public int ClassId { get; set; }
 
         public Message() {}
     }

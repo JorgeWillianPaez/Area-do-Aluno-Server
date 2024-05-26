@@ -12,6 +12,7 @@ namespace AreaDoAluno.Models
     public string? Rgm { get; set; }
     public char Sex { get; set; }
     public Adress? Adress { get; set; }
+    public int AdressId { get; set; }
     public DateOnly Birthdate { get; set; }
     public Person(){}
     }  
